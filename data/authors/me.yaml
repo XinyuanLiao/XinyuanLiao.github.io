@@ -2,14 +2,12 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
-  pronouns: she/her
+  display: 廖鑫源
+  given: Xinyuan
+  family: Liao
 status:
   icon: "☕️"
-role: Director of Cloud Infrastructure
+role: PhD Student at Dept. EEE of PolyU HK
 bio: >
   I am currently Director of Cloud Infrastructure at GenCoin where I am leading
   teams on edge computing, deep sea data center architecture, and hivemind optimization.
